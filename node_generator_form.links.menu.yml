@@ -1,0 +1,5 @@
+node_generator_form.create_nodes:
+  title: Create Nodes
+  description: Create nodes
+  route_name: node_generator_form.createNodes
+  weight: 2

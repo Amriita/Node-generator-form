@@ -1,0 +1,7 @@
+node_generator_form.createNodes:
+  path: '/create-nodes'
+  defaults:
+    _form: '\Drupal\node_generator_form\Form\NodeGeneratorForm'
+    _title: 'Create Nodes'
+  requirements:
+    _permission: 'access content'
